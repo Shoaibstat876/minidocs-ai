@@ -1,4 +1,4 @@
-﻿Add public walkthrough video URL here after recording.
+https://www.loom.com/share/ef4a79d1147d445ca7c30911f2000fd4
 
 Example:
 https://youtu.be/your-video-link

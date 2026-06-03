@@ -19,7 +19,7 @@ MiniDocs AI is a lightweight collaborative document editor MVP built for the Aja
 https://minidocs-ai.vercel.app/
 
 ## Walkthrough Video URL
-Add video URL here after recording.
+https://www.loom.com/share/ef4a79d1147d445ca7c30911f2000fd4
 
 ## Seeded Users
 - Muhammad Shoaib
