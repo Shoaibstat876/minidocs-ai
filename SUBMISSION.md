@@ -1,4 +1,4 @@
-﻿# Submission
+# Submission
 
 ## Project Name
 MiniDocs AI
@@ -16,7 +16,7 @@ MiniDocs AI is a lightweight collaborative document editor MVP built for the Aja
 - Automated sharing logic test
 
 ## Live Product URL
-Add Vercel URL here after deployment.
+https://minidocs-ai.vercel.app/
 
 ## Walkthrough Video URL
 Add video URL here after recording.

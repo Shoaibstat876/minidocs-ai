@@ -6,7 +6,7 @@ The goal is not to recreate Google Docs completely. The goal is to demonstrate a
 
 ## Live Demo
 
-Add deployed URL here after deployment.
+https://minidocs-ai.vercel.app/
 
 ## Core Features
 
