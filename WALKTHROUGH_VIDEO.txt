@@ -1,0 +1,4 @@
+﻿Add public walkthrough video URL here after recording.
+
+Example:
+https://youtu.be/your-video-link
